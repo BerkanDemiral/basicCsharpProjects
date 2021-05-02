@@ -1,1 +1,1 @@
-# basicCsharpProjects
+# Basic Desktop applications with C#
