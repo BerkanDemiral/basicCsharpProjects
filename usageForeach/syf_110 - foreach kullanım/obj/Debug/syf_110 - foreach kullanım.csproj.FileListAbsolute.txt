@@ -1,0 +1,9 @@
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf_110 - foreach kullanım\syf_110 - foreach kullanım\bin\Debug\syf_110 - foreach kullanım.exe.config
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf_110 - foreach kullanım\syf_110 - foreach kullanım\bin\Debug\syf_110 - foreach kullanım.exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf_110 - foreach kullanım\syf_110 - foreach kullanım\bin\Debug\syf_110 - foreach kullanım.pdb
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf_110 - foreach kullanım\syf_110 - foreach kullanım\obj\Debug\syf_110___foreach_kullanım.Form1.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf_110 - foreach kullanım\syf_110 - foreach kullanım\obj\Debug\syf_110___foreach_kullanım.Properties.Resources.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf_110 - foreach kullanım\syf_110 - foreach kullanım\obj\Debug\syf_110 - foreach kullanım.csproj.GenerateResource.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf_110 - foreach kullanım\syf_110 - foreach kullanım\obj\Debug\syf_110 - foreach kullanım.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf_110 - foreach kullanım\syf_110 - foreach kullanım\obj\Debug\syf_110 - foreach kullanım.exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf_110 - foreach kullanım\syf_110 - foreach kullanım\obj\Debug\syf_110 - foreach kullanım.pdb

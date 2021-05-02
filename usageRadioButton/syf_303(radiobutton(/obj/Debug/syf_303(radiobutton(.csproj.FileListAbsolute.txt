@@ -1,0 +1,9 @@
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_303(radiobutton(\syf_303(radiobutton(\bin\Debug\syf_303(radiobutton(.exe.config
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_303(radiobutton(\syf_303(radiobutton(\bin\Debug\syf_303(radiobutton(.exe
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_303(radiobutton(\syf_303(radiobutton(\bin\Debug\syf_303(radiobutton(.pdb
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_303(radiobutton(\syf_303(radiobutton(\obj\Debug\syf_303_radiobutton_.Form1.resources
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_303(radiobutton(\syf_303(radiobutton(\obj\Debug\syf_303_radiobutton_.Properties.Resources.resources
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_303(radiobutton(\syf_303(radiobutton(\obj\Debug\syf_303(radiobutton(.csproj.GenerateResource.cache
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_303(radiobutton(\syf_303(radiobutton(\obj\Debug\syf_303(radiobutton(.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_303(radiobutton(\syf_303(radiobutton(\obj\Debug\syf_303(radiobutton(.exe
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_303(radiobutton(\syf_303(radiobutton(\obj\Debug\syf_303(radiobutton(.pdb

@@ -1,0 +1,10 @@
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\bin\Debug\syf_283.exe.config
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\bin\Debug\syf_283.exe
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\bin\Debug\syf_283.pdb
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\obj\Debug\syf_283.csprojAssemblyReference.cache
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\obj\Debug\syf_283.Form1.resources
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\obj\Debug\syf_283.Properties.Resources.resources
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\obj\Debug\syf_283.csproj.GenerateResource.cache
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\obj\Debug\syf_283.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\obj\Debug\syf_283.exe
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_283\syf_283\obj\Debug\syf_283.pdb

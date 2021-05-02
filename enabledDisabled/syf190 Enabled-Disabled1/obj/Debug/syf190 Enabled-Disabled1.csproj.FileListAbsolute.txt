@@ -1,0 +1,10 @@
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\obj\Debug\syf190 Enabled-Disabled1.csprojAssemblyReference.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\obj\Debug\syf190_Enabled_Disabled1.Form1.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\obj\Debug\syf190_Enabled_Disabled1.Properties.Resources.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\obj\Debug\syf190 Enabled-Disabled1.csproj.GenerateResource.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\obj\Debug\syf190 Enabled-Disabled1.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\bin\Debug\syf190 Enabled-Disabled1.exe.config
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\bin\Debug\syf190 Enabled-Disabled1.exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\bin\Debug\syf190 Enabled-Disabled1.pdb
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\obj\Debug\syf190 Enabled-Disabled1.exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\syf190 Enabled-Disabled1\syf190 Enabled-Disabled1\obj\Debug\syf190 Enabled-Disabled1.pdb

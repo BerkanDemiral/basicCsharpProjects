@@ -1,0 +1,10 @@
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\bin\Debug\RadioGroup-ScrollBar renk deg.exe.config
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\bin\Debug\RadioGroup-ScrollBar renk deg.exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\bin\Debug\RadioGroup-ScrollBar renk deg.pdb
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\obj\Debug\RadioGroup-ScrollBar renk deg.csprojAssemblyReference.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\obj\Debug\RadioGroup_ScrollBar_renk_deg.Form1.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\obj\Debug\RadioGroup_ScrollBar_renk_deg.Properties.Resources.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\obj\Debug\RadioGroup-ScrollBar renk deg.csproj.GenerateResource.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\obj\Debug\RadioGroup-ScrollBar renk deg.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\obj\Debug\RadioGroup-ScrollBar renk deg.exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\RadioGroup-ScrollBar renk deg\RadioGroup-ScrollBar renk deg\obj\Debug\RadioGroup-ScrollBar renk deg.pdb

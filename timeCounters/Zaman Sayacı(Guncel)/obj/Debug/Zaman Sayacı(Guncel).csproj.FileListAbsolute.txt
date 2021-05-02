@@ -1,0 +1,20 @@
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\bin\Debug\Zaman Sayacı(Guncel).exe.config
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\bin\Debug\Zaman Sayacı(Guncel).exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\bin\Debug\Zaman Sayacı(Guncel).pdb
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).csprojAssemblyReference.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman_Sayacı_Guncel_.Form1.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman_Sayacı_Guncel_.Properties.Resources.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).csproj.GenerateResource.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).pdb
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\bin\Debug\Zaman Sayacı(Guncel).exe.config
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\bin\Debug\Zaman Sayacı(Guncel).exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\bin\Debug\Zaman Sayacı(Guncel).pdb
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).csprojAssemblyReference.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman_Sayacı_Guncel_.Form1.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman_Sayacı_Guncel_.Properties.Resources.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).csproj.GenerateResource.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\Sınav Örnek Deneme\ÇIKMIŞ\Zaman Sayacı(Guncel)\Zaman Sayacı(Guncel)\obj\Debug\Zaman Sayacı(Guncel).pdb

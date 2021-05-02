@@ -1,0 +1,10 @@
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\bin\Debug\syf_300(checkbox işlem).exe.config
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\bin\Debug\syf_300(checkbox işlem).exe
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\bin\Debug\syf_300(checkbox işlem).pdb
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\obj\Debug\syf_300(checkbox işlem).csprojAssemblyReference.cache
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\obj\Debug\syf_300_checkbox_işlem_.Form1.resources
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\obj\Debug\syf_300_checkbox_işlem_.Properties.Resources.resources
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\obj\Debug\syf_300(checkbox işlem).csproj.GenerateResource.cache
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\obj\Debug\syf_300(checkbox işlem).csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\obj\Debug\syf_300(checkbox işlem).exe
+C:\Users\demir\Desktop\172113007_BerkanDemiral\syf_300(checkbox işlem)\syf_300(checkbox işlem)\obj\Debug\syf_300(checkbox işlem).pdb

@@ -1,0 +1,10 @@
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\bin\Debug\syf_411 Yazdırma İşlemler.exe.config
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\bin\Debug\syf_411 Yazdırma İşlemler.exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\bin\Debug\syf_411 Yazdırma İşlemler.pdb
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\obj\Debug\syf_411 Yazdırma İşlemler.csprojAssemblyReference.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\obj\Debug\syf_411_Yazdırma_İşlemler.Form1.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\obj\Debug\syf_411_Yazdırma_İşlemler.Properties.Resources.resources
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\obj\Debug\syf_411 Yazdırma İşlemler.csproj.GenerateResource.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\obj\Debug\syf_411 Yazdırma İşlemler.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\obj\Debug\syf_411 Yazdırma İşlemler.exe
+C:\Users\demir\Desktop\Software Programs\C#-Görsel Programlama\FİNALE YÖNELİK\syf_411 Yazdırma İşlemler\syf_411 Yazdırma İşlemler\obj\Debug\syf_411 Yazdırma İşlemler.pdb
